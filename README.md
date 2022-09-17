@@ -1,3 +1,3 @@
 # React-Exercises
 
-![](images/output.png)
+![](https://github.com/ezgikarali4/React-Exercises/blob/master/image/output.png)
